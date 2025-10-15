@@ -1,0 +1,2 @@
+['remote "mylocal"']
+    url = ../../dvc_remote
